@@ -13,17 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-# Salut, moi c'est Farah ! 
-
-
-
-D'un naturel curieux et rigoureux, je développe des solutions innovantes tout en apprenant de nouvelles technologies chaque jour.
-
----
-### Portfolio
-https://faradumatin.github.io/
 
 ### Mon Stack Technique
 
@@ -32,10 +21,13 @@ https://faradumatin.github.io/
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
 | **Backend** | ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
 | **Outils** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) |
+-->
+## Portfolio
+https://faradumatin.github.io/
 
 ---
 
-### Me contacter
+### Contact
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/farah-mohamed-1411a0264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Farah" height="30" width="40" /></a>
