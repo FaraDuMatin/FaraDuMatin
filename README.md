@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 D'un naturel curieux et rigoureux, je développe des solutions innovantes tout en apprenant de nouvelles technologies chaque jour.
 
 ---
+### Portfolio
+https://faradumatin.github.io/
 
-### 🛠️ Mon Stack Technique
+### Mon Stack Technique
 
 | Domaine | Technologies |
 | :--- | :--- |
@@ -33,7 +35,7 @@ D'un naturel curieux et rigoureux, je développe des solutions innovantes tout e
 
 ---
 
-### 📫 Me contacter
+### Me contacter
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/farah-mohamed-1411a0264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Farah" height="30" width="40" /></a>
