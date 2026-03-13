@@ -30,7 +30,7 @@ https://faradumatin.github.io/
 ### Contact
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/farah-mohamed-1411a0264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Farah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/farah-mohamed-farah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Farah" height="30" width="40" /></a>
 <a href="mailto:mohameffarah1@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/mail.png" alt="Email" height="30" width="35" /></a>
 </p>
 
